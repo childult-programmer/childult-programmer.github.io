@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-M.S. in the Dept. of AI Robotics, Sejong University.
+M.S. Dept. of AI Robotics, Sejong University.
