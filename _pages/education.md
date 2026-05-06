@@ -1,7 +1,7 @@
 ---
 layout: page
 title: education
-permalink: /education/
+permalink: /_education/
 ---
 
 {% include education.liquid %}
