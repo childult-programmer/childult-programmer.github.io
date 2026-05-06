@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-on-multispectral-pedestrian-detection-insanet-has-been-published",
+          title: '📃 Our paper on multispectral pedestrian detection (INSANet) has been published.',
           description: "",
           section: "News",},{id: "news-i-am-now-a-master-s-student-at-sju-robotics-amp-amp-computer-vision-rcv-lab",
           title: '💻 I am now a master’s student at SJU Robotics &amp;amp;amp; Computer Vision...',
