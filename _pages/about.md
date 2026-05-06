@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I’m a M.S. student at the University of Sejong, advised by Prof. <a href='https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en/'>Yukyung Choi</a>, working on Sensor Fusion/VLMs for autonomous driving.
+subtitle: I’m a M.S. student at the University of Sejong, advised by Prof. <a href='https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en/'>Yukyung Choi</a>.
 profile:
   align: right
   image: silee.jpg
