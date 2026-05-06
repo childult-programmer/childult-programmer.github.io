@@ -443,12 +443,10 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-am-now-a-master-s-student-at-sju-robotics-amp-amp-computer-vision-rcv-lab",
+          title: '💻 I am now a master’s student at SJU Robotics &amp;amp;amp; Computer Vision...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-paper-on-token-pruning-litelvlm-got-accepted-to-icml-26",
+          section: "News",},{id: "news-a-paper-on-token-pruning-litelvlm-got-accepted-to-icml-26",
           title: '📃 A paper on token pruning (LiteLVLM) got accepted to ICML 26.',
           description: "",
           section: "News",},{id: "projects-project-1",
