@@ -2,33 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: I’m a M.S. student at the University of Sejong, advised by Prof. <a href='https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en/'>Yukyung Choi</a>, working on Sensor Fusion/VLMs for autonomous driving.
 profile:
   align: right
-  image: prof_pic.jpg
+  image: silee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Seoul, South Korea</p>
 
+news : true
+education : true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on building effective and efficient multimodal AI systems for real-world environments. My goal is to develop AI/ML that can reliably assist humans in perceiving, understanding, and interacting with the real world, with long-term applications in autonomous driving and intelligent infotainment systems. I am deeply interested in exploring three key areas for a comprehensive understanding of multimodal:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+1. **Reliable Perception**: Developing reliable and effective perception (*e.g.,* object detection, segmentation) systems through sensor fusion and domain adaptation/generalization approaches.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+2. **Efficient VLMs**: Reducing the computational cost of large vision-language models through token pruning and efficient representation learning while preserving visual grounding capabilities.
+
+3. **Scale-efficient Training**: Exploring scalable and data-efficient training strategies for AI/ML systems to enable practical deployment in real-world applications with limited computational resources.
