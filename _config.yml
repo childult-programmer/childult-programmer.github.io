@@ -160,6 +160,11 @@ collections:
     defaults:
       layout: post
     output: true
+  education:
+    defaults:
+      layout: post
+    output: true
+    permalink: /education/:path/
   projects:
     output: true
   teachings:
