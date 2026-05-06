@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hi, I'm Sangin Lee # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Sangin
 middle_name:
 last_name: Lee
