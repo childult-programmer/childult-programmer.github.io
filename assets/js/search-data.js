@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-a-paper-on-token-pruning-litelvlm-got-accepted-to-icml-26",
+          title: '📃 A paper on token pruning (LiteLVLM) got accepted to ICML 26.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
