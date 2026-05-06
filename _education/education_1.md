@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-B.S. Dept. of Software in Sejong University.
+B.S. Dept. of Software, Sejong University.
