@@ -4,4 +4,5 @@ date: 2024-03-02
 inline: true
 related_posts: false
 ---
-M.S. Dept. of AI Robotics in Sejong University. 
+
+M.S. in the Department of AI Robotics, Sejong University.
