@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📃 A paper on token pruning (LiteLVLM) got accepted to ICML 26.
+🚀 Our paper on token pruning (LiteLVLM) got accepted to ICML 26!
