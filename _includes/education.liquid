@@ -1,33 +1,31 @@
 <div class="education">
-  {% if page.education != blank %}
-    {% assign education_size = page.education | size %}
-    <div
-      class="table-responsive"
-      {% if include.limit and page.announcements.scrollable and education_size > 3 %}
-        style="max-height: 60vw"
-      {% endif %}
-    >
+  {% if site.education != blank %}
+    {% assign education_size = site.education | size %}
+
+    <div class="table-responsive">
       <table class="table table-sm table-borderless">
-        {% assign education = page.education | reverse %}
-        {% if include.limit and page.announcements.limit %}
-          {% assign education_limit = page.announcements.limit %}
-        {% else %}
-          {% assign education_limit = education_size %}
-        {% endif %}
-        {% for item in education limit: education_limit %}
+        {% assign education = site.education | reverse %}
+
+        {% for item in education %}
           <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <th scope="row" style="width: 20%">
+              {{ item.date | date: '%Y' }}
+            </th>
+
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                <a class="education-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                <a class="education-title" href="{{ item.url | relative_url }}">
+                  {{ item.title }}
+                </a>
               {% endif %}
             </td>
           </tr>
         {% endfor %}
       </table>
     </div>
+
   {% else %}
     <p>No education so far...</p>
   {% endif %}
