@@ -13,7 +13,13 @@
       "countryCode": "South Korea",
       "region": "Seoul"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "education": [
     {
