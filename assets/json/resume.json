@@ -61,45 +61,46 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large Vision-Language Models",
+      "publisher": "Sangin Lee and Yukyung Choi",
+      "releaseDate": "2026-07",
+      "url": "https://icml.cc/virtual/2026/poster/60729",
+      "summary": "International Conference on Machine Learning (ICML)"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection",
+      "publisher": "Sangin Lee, Seokjun Kwon, Jeongmin Shin, Namil Kim and Yukyung Choi",
+      "releaseDate": "2026",
+      "url": "https://github.com/sejong-rcv/MS-DePro",
+      "summary": "Knowledge-Based Systems (KBS) UnderReview"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "INSANet: INtra-INter Spectral Attention Network for Effective Feature Fusion of Multispectral Pedestrian Detection",
+      "publisher": "Sangin Lee, Taejoo Kim, Jeongmin Shin, Namil Kim and Yukyung Choi",
+      "releaseDate": "2024-02",
+      "url": "https://www.mdpi.com/1424-8220/24/4/1168",
+      "summary": "Sensors"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++",
+        "MATLAB",
+        "Python",
+        "Pytorch",
+        "HuggingFace",
+        "Git",
+        "Docker"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -111,37 +112,37 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Vision",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Sensor Fusion",
+        "Multimodal Perception",
+        "Efficient VLM",
+        "Large Vision-Language Model"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
-    }
+      "name": "Development of 3D Sensor Fusion Technology for Improving Detection Performance of Unmanned Vehicles",
+      "summary": "FUNDED BY MINISTRY OF SCIENCE AND ICT (MSIT)",
+      "highlights": ["Open-vocabulary perception", "Efficient VLM"],
+      "startDate": "2023-01",
+      "endDate": "2026-05"
+    },
+    {
+      "name": "Development of AI-based high resolution low power smart camera and machine vision integrated solution for defect detection in manufacturing",
+      "summary": "FUNDED BY MINISTRY OF TRADE, INDUSTRY & ENERGY (MOTIE)",
+      "highlights": ["Object detection", "Lightweight backbone"],
+      "startDate": "2023-04",
+      "endDate": "2025-12"
+    },
+    {
+      "name": "Study on magnetic map matching based localization and vision based anomaly detection algorithm for electrical plant surveillance robots",
+      "summary": "FUNDED BY KOREA ELECTRIC POWER CORPORATION (KEPCO)",
+      "highlights": ["Object detection", "Robot surveillance"],
+      "startDate": "2021-01",
+      "endDate": "2023-12"
+    },
   ]
 }
