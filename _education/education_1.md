@@ -6,4 +6,4 @@ related_posts: false
 period: Mar 2017 - Feb 2024
 ---
 
-B.S. Dept. of Software, Sejong University.
+🎓 B.S. Dept. of Software in Sejong University.
