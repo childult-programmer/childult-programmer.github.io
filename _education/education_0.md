@@ -6,4 +6,4 @@ related_posts: false
 period: Mar 2024 - Aug 2026
 ---
 
-M.S. Dept. of AI Robotics, Sejong University.
+🎓 M.S. Dept. of AI Robotics in Sejong University.
