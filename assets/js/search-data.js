@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "education-b-s-dept-of-software-in-sejong-university",
-          title: '🎓 B.S. Dept. of Software in Sejong University.',
+            },},{id: "education-b-s-dept-of-software-sejong-university",
+          title: 'B.S. Dept. of Software, Sejong University.',
           description: "",
           section: "Education",},{id: "education-m-s-dept-of-ai-robotics-in-sejong-university",
           title: '🎓 M.S. Dept. of AI Robotics in Sejong University.',
