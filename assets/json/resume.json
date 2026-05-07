@@ -41,8 +41,8 @@
       "studyType": "Master of Science (M.S)",
       "startDate": "2017-03-02",
       "endDate": "2024-02-01",
-      "score": "10",
-    },
+      "score": "10"
+    }
   ],
   "awards": [
     {
@@ -149,6 +149,6 @@
       "highlights": ["Object detection", "Robot surveillance"],
       "startDate": "2021-01",
       "endDate": "2023-12"
-    },
+    }
   ]
 }
