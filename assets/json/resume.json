@@ -88,6 +88,29 @@
       "summary": "Sensors"
     }
   ],
+  "patents": [
+    {
+      "name": "Token Pruning for Efficient Pixel Grounding Based on Visual-Text Similarity",
+      "inventor": "Yukyung Choi and Sangin Lee",
+      "number": "Ongoing",
+      "status": "Pending",
+      "date": "2026-05"
+    },
+    {
+      "name": "Multi-Modal Guided Multi-Source Learning for Object Detection",
+      "publisher": "Yukyung Choi, Sangin Lee, Seokjun Kwon and Jeongmin Shin",
+      "number": "10-2025-0064651",
+      "status": "Pending",
+      "date": "2025-05"
+    },
+    {
+      "name": "Attention-based Illumination-aware Multispectral Pedestrian Detection",
+      "publisher": "Yukyung Choi, Sangin Lee, Dogyeong Kim, Taejoo Kim, and Hyeongjun Kim",
+      "number": "10-2023-0106387",
+      "status": "Pending",
+      "date": "2023-08"
+    }
+  ],
   "skills": [
     {
       "name": "Programming",
