@@ -61,9 +61,10 @@ layout: default
         {% assign cv = site.data.cv.cv %}
 
         <!-- Header/Contact Information -->
-        {% if cv.name or cv.label or cv.location or cv.email or cv.phone or cv.website %}
+        {% if cv.name or cv.label or cv.location or cv.email or cv.phone or cv.website or cv.summary %}
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Contact Information</h3>
+        
             <table class="table table-cv table-sm table-borderless">
               {% if cv.name %}
                 <tr>
@@ -71,24 +72,28 @@ layout: default
                   <td class="p-1 pl-2 font-weight-light">{{ cv.name }}</td>
                 </tr>
               {% endif %}
+        
               {% if cv.label %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Professional Title</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.label }}</td>
                 </tr>
               {% endif %}
+        
               {% if cv.email %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Email</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.email }}</td>
                 </tr>
               {% endif %}
+        
               {% if cv.phone %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Phone</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.phone }}</td>
                 </tr>
               {% endif %}
+        
               {% if cv.address %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Location</b></td>
@@ -100,6 +105,7 @@ layout: default
                   </td>
                 </tr>
               {% endif %}
+        
               {% if cv.website %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Website</b></td>
@@ -108,15 +114,19 @@ layout: default
                   </td>
                 </tr>
               {% endif %}
+        
+              {% if cv.summary %}
+                <tr>
+                  <td class="p-1 pr-2 font-weight-bold align-top">
+                    <b>Summary</b>
+                  </td>
+        
+                  <td class="p-1 pl-2 font-weight-light">
+                    {{ cv.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+                  </td>
+                </tr>
+              {% endif %}
             </table>
-          </div>
-        {% endif %}
-
-        <!-- Summary -->
-        {% if cv.summary %}
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Professional Summary</h3>
-            <p>{{ cv.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           </div>
         {% endif %}
 
