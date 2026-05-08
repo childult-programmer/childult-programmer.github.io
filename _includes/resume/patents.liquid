@@ -41,6 +41,13 @@
             {% endif %}
           </h6>
 
+          <!-- Inventors -->
+          {% if content.inventor %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+              {{ content.inventor }}
+            </h6>
+          {% endif %}
+
           <!-- Patent Number -->
           {% if content.number %}
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
