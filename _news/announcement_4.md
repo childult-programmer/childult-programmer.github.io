@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 Our paper on Multi-Source Domain Adaptation (MSDA) got accepted to Knowledge-Based Systems (KBS; SCI Q1)!
+🚀 Our paper on Multi-Source Domain Adaptation got accepted to Knowledge-Based Systems (KBS)!
