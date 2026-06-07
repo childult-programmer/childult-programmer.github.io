@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 Our paper on Multi-Source Domain Adaptation got accepted to Knowledge-Based Systems (KBS)!
+🚀 Our paper on MSDA got accepted to Knowledge-Based Systems (KBS)!
