@@ -404,7 +404,7 @@ ninja.data = [{
           title: '💻 I am now a master’s student at SJU Robotics &amp;amp;amp; Computer Vision...',
           description: "",
           section: "News",},{id: "news-our-paper-on-token-pruning-got-accepted-to-icml-26",
-          title: '🚀 Our paper on Token Pruning got accepted to ICML 26!',
+          title: '🚀 Our paper on token pruning got accepted to ICML 26!',
           description: "",
           section: "News",},{id: "news-our-paper-on-msda-got-accepted-to-knowledge-based-systems-kbs",
           title: '🚀 Our paper on MSDA got accepted to Knowledge-Based Systems (KBS)!',
