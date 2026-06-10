@@ -2,6 +2,6 @@ metadata:
   last_updated: '2026-05-18'
 papers:
   MO_dSVUAAAAJ:u5HHmVD_uO8C:
-    citations: 28
+    citations: 30
     title: 'INSANet: INtra-INter spectral attention network for effective feature fusion of multispectral pedestrian detection'
     year: '2024'
