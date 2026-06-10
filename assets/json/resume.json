@@ -76,9 +76,9 @@
     {
       "name": "Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection",
       "publisher": "Sangin Lee, Seokjun Kwon, Jeongmin Shin, Namil Kim and Yukyung Choi",
-      "releaseDate": "2026",
+      "releaseDate": "2026-06",
       "url": "https://github.com/sejong-rcv/MS-DePro",
-      "summary": "Knowledge-Based Systems (KBS) UnderReview"
+      "summary": "Knowledge-Based Systems (KBS)"
     },
     {
       "name": "INSANet: INtra-INter Spectral Attention Network for Effective Feature Fusion of Multispectral Pedestrian Detection",
